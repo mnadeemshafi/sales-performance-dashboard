@@ -10,7 +10,7 @@ The dashboard enables users to quickly identify top-performing locations, produc
 
 ## 📊 Dashboard Preview
 
-![Super Store Dashboard](screenshots/superstore-sales-performance.png)
+![Super Store Dashboard](screenshots/superstore-sales-performance-dashboard.png)
 
 ---
 
